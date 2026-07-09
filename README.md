@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Snehar24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Snehar24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Snehar24/Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-last-stone-weight](https://github.com/Snehar24/Leetcode/tree/master/1046-last-stone-weight) |
 | [1991-find-the-middle-index-in-array](https://github.com/Snehar24/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Snehar24/Leetcode/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Snehar24/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
